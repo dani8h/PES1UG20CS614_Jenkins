@@ -1,8 +1,7 @@
-//File: hello.cpp
 #include <iostream>
 using namespace std;
 
 int main(void) {
-  cout << "New file" << endl;
+  cout << "this is a new file" << endl;
   return 0;
 }
